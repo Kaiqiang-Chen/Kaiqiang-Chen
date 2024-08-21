@@ -18,7 +18,7 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://github.com/Kaiqiang-Chen/Portfolio">My Portfolio</a></li>
-
+<ul>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/kenneth-kaiqiang-chen" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p>E-mail: kaiqiang.chen@outlook.com</p>
